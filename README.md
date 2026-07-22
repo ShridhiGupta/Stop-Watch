@@ -2,7 +2,7 @@
 
 A modern and aesthetic stopwatch application built for developers, students, and professionals to track task durations and stay productive.
 
-Live Demo: https://stopwatch-shridhi.vercel.app/
+# Live Demo: https://stopwatch-shridhi.vercel.app/
 
 ## Features
 
