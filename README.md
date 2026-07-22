@@ -1,4 +1,4 @@
-# ⏱️ Stop-Watch
+# Stop-Watch
 
 A modern and aesthetic stopwatch application built for developers, students, and professionals to track task durations and stay productive.
 
