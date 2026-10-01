@@ -32,4 +32,4 @@ Open `http://localhost:3000` in your browser.
 - Coding sessions
 - Study tracking
 - Task management
-- Productivity monitoring
+- Productivity monitoring
